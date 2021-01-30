@@ -1,7 +1,7 @@
 cat > poolMetaData.json << EOF
 {
 "name": "Jolly Roger's COFFR",
-"description": "Sail the uncharted waters of decentralized cryptocurrency with us. We are secure, redundent, and reliable. Join us on discord at: https://discord.gg/67tcJfzf",
+"description": "Sail the uncharted waters of decentralized cryptocurrency with us. We are secure, redundant, and reliable. Join us on discord at: https://discord.gg/67tcJfzf",
 "ticker": "COFFR",
 "homepage": "https://coffr.info"
 }
