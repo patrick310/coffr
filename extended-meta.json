@@ -5,56 +5,36 @@
         "url_png_logo": "https://github.com/patrick310/coffr/blob/main/logo.png",
         "location": "Tuscaloosa, Alabama",
         "social": {
-            "twitter_handle": "AdapoolsO",
-            "telegram_handle": "adapools_ops",
+            "twitter_handle": "",
+            "telegram_handle": "ada_coffr",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
-            "discord_handle": "",
+            "discord_handle": "Jolly Roger's COFFR",
             "github_handle": ""
         },
-        "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
-        },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "me": "Systems engineer with a strong belief in the positive benefits of decentralization.",
+            "server": "Primarily cloud-based supplemented with operational, physical back-up servers."
         },
-        "rss": "http(s) url to valid RSS feed"
+        "rss": ""
     },
     "my-pool-ids": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "651151eed67c4b506a0e4279040a5210d85ec88704d680f39bca2dda"
     },
     "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+        "0": "651151eed67c4b506a0e4279040a5210d85ec88704d680f39bca2dda",
         "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
     },
     "telegram-admin-handle": {
-        "0": "mnmnmnmnnmn"
+        "0": "CharlesMeridian"
     },
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "relay 1 eu",
+                "name": "Main USA Relay",
                 "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "1": {
-                "name": "relay 2 usa",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "2": {
-                "name": "block producer home",
-                "type": "bp",
-                "key": "example_get_own_on_adapools.org/connect"
+                "key": "93e92142900d0040d9ea243cd28dbba2"
             }
         }
     }
