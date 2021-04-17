@@ -33,10 +33,15 @@
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "Main USA Relay",
+                "name": "Relay Node 1",
                 "type": "relay",
                 "key": "93e92142900d0040d9ea243cd28dbba2"
-            }
+            },
+        "1": {
+            "name": "Relay Node 2",
+            "type": "relay",
+            "key": "4510168d0ae755c6527daa7ee96adc4c"
+        }
         }
     }
 }
