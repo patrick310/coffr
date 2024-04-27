@@ -1,4 +1,5 @@
 {
+    "verification":"3d09428a1f8290211f",
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://github.com/patrick310/coffr/blob/main/flag.png",
@@ -20,9 +21,6 @@
             "server": "Primarily cloud-based supplemented with operational, physical back-up servers."
         },
         "rss": ""
-    },
-    "cx_explorer": {
-        "key": "3d09428a1f8290211f"
     },
     "my-pool-ids": {
         "0": "651151eed67c4b506a0e4279040a5210d85ec88704d680f39bca2dda"
